@@ -1,0 +1,113 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400;500;600;700&family=Great+Vibes&display=swap');
+@import "tailwindcss";
+
+:root {
+  --bg: #fdeed7;
+  --bg-edge: #d9c8b8;
+  --primary: #8c6a5d;
+  --accent: #a0785a;
+  --gold: #9c7048;
+  --text: #3d2b1f;
+  --text-muted: #6b5344;
+  --font-heading: 'Caveat', cursive;
+  --font-body: 'Caveat', cursive;
+  --font-script: 'Great Vibes', cursive;
+}
+
+*, *::before, *::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background: 
+    radial-gradient(circle at 50% 50%, rgba(156, 112, 72, 0.03) 0%, transparent 100%),
+    linear-gradient(to right, var(--bg-edge), var(--bg) 25%, var(--bg) 75%, var(--bg-edge));
+  color: var(--text);
+  font-family: var(--font-body);
+  font-size: 1.2rem;
+  line-height: 1.5;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  overflow-x: hidden;
+  min-height: 100vh;
+}
+
+::-webkit-scrollbar {
+  width: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--bg-edge);
+}
+
+::-webkit-scrollbar-thumb {
+  background: rgba(140, 106, 93, 0.4);
+  border-radius: 3px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(140, 106, 93, 0.6);
+}
+
+/* ScrollStack card inner content */
+.stack-card {
+  background: rgba(255, 255, 255, 0.6);
+  border: 1px solid rgba(140, 106, 93, 0.1);
+  border-radius: 32px;
+  padding: 3.5rem 3rem;
+  text-align: center;
+  backdrop-filter: blur(16px);
+  min-height: 380px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 1.25rem;
+  box-shadow: 
+    0 10px 40px rgba(140, 106, 93, 0.05),
+    inset 0 0 0 1px rgba(255, 255, 255, 0.4);
+  transition: transform 0.4s ease;
+}
+
+.stack-card-image {
+  padding: 0;
+  overflow: hidden;
+  min-height: auto;
+}
+
+.stack-card-image img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+  border-radius: 24px;
+}
+
+/* App reveal animation */
+.app-hidden {
+  opacity: 0;
+  transform: translateY(20px);
+}
+
+.app-visible {
+  opacity: 1;
+  transform: translateY(0);
+  animation: appReveal 1.2s ease-out;
+}
+
+@keyframes appReveal {
+  from {
+    opacity: 0;
+    transform: translateY(30px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}

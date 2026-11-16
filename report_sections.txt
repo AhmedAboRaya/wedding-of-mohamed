@@ -1,0 +1,100 @@
+
+==================================================
+SECTION 1: Home
+==================================================
+Background: {"B": {"A": {"A?": "d", "A": "MAGZO3DIrL0", "B": 1}, "I": {"A?": "d", "A": "MAHRZZ1my0g", "B": 1}, "B": {"A": -760.399113737075, "B": 0.0, "D": 1365.9999999999998, "C": 2048.7982274741503, "E": 0.0}, "E": 0.0, "C": {}}, "C": "#faf1e1", "D": 0.0, "F": false, "J": false, "G": false, "H": false}
+Total elements: 5
+
+  [Element 1] (Role: , Type: J)
+    Texts: RSVP Here
+    Fonts: Roboto Mono
+    Sizes: 17.3335px
+    Colors: #faf1e1
+    Button/Shape Fill: #faf1e1
+
+  [Element 2] (Role: title, Type: K)
+    Texts: Mohamed&Aya
+    Fonts: Pinyon Script
+    Sizes: 102.667px
+    Colors: #faf1e1
+
+  [Element 3] (Role: subtitle, Type: K)
+    Texts: Are getting married
+    Fonts: Quattrocento
+    Sizes: 40px
+    Colors: #faf1e1
+
+  [Element 4] (Role: heading, Type: K)
+    Texts: December 04, 2026,7:00 PM
+    Fonts: Roboto Mono
+    Sizes: 16.0001px
+    Colors: #faf1e1
+
+  [Element 5] (Role: heading, Type: K)
+    Texts: la plume hall sheraton
+    Fonts: Roboto Mono
+    Sizes: 16.0001px
+    Colors: #faf1e1
+
+==================================================
+SECTION 2: About
+==================================================
+Background: {"C": "#cdc1ab", "D": 0.0, "F": false, "J": false, "G": false, "H": false}
+Total elements: 5
+
+  [Element 1] (Role: heading, Type: K)
+    Texts: From neighbors to soulmates
+    Fonts: Quattrocento
+    Sizes: 26.6667px
+    Colors: #2d2b25
+
+  [Element 2] (Role: heading, Type: K)
+    Texts: and from today to forever.â
+    Fonts: Quattrocento
+    Sizes: 26.6667px
+    Colors: #2d2b25
+
+  [Element 3] (Role: paragraph, Type: K)
+    Texts: Ø­ÙØ§ÙØªÙØ§ Ø¨Ø¯Ø£Øª ÙØ±ÙØ¨ ÙÙ Ø¨ÙØªÙØ§Ø ÙØ¥Ø­ÙØ§ Ø¬ÙØ±Ø§ÙØ ÙÙ ØºÙØ± ÙØ§ ÙØ¹Ø±Ù Ø¥Ù Ø§ÙØ´Ø®Øµ Ø§ÙÙÙ Ø¹Ø§ÙØ´ ÙØ±ÙØ¨ ÙÙÙØ§ ÙÙÙØ¬Ù ÙÙÙ ÙÙØ¨ÙÙ Ø£ØºÙÙ Ø´Ø®Øµ ÙÙ Ø¯ÙÙØªÙØ§. ÙØ§Ø­Ø¯Ø© ÙØ§Ø­Ø¯Ø© ÙØ¨ÙÙ Ø¨Ø³Ø§Ø·Ø©Ø ØµØ¯Ø§ÙØªÙØ§ Ø§ØªØ­ÙÙØª ÙØ­Ø¨ Ø¨ÙØ´Ø¨Ù Ø§ÙØ¨ÙØªØ Ø­Ø¨ ÙØ§Ø¯Ù ÙØ­ÙÙÙ ÙÙÙÙØ§Ù ÙØ­Ø¸Ø§Øª ØµØºÙØ±Ø© ÙØ¹ÙØ§ÙØ§ Ø¹ÙØ¯ÙØ§ ÙÙ Ø­Ø§Ø¬Ø©. | ÙØ¹ Ø¨Ø¹Ø¶Ø ÙÙÙÙØ§ Ø§ÙØ±Ø§Ø­Ø© ÙÙ ÙØ¬ÙØ¯ÙØ§ Ø¬ÙØ¨ Ø¨Ø¹Ø¶Ø ÙØ§ÙÙØ±Ø­Ø© ÙÙ Ø£Ø¨Ø³Ø· Ø§ÙØªÙØ§ØµÙÙØ ÙØ­Ø¨ Ø¨ÙÙØ¨Ø± ÙÙÙÙÙ ÙØ¹ ÙÙ ÙÙÙ Ø¨ÙØ¹Ø¯ÙÙ. ÙØ¯ÙÙÙØªÙØ ÙØ¥Ø­ÙØ§ Ø¨ÙØ¨Ø¯Ø£ Ø­ÙØ§ÙØªÙØ§ ÙÙØ£Ø¨Ø¯Ø ÙØ³ØªÙÙÙÙ ÙØ­ÙÙ ÙÙ ÙØ­Ø¸Ø§ØªÙØ§ Ø§ÙØµØºÙØ±Ø© ÙØ°ÙØ±ÙØ§Øª Ø¬ÙÙÙØ© ÙØ¹ÙØ´ÙØ§ Ø·ÙÙ Ø§ÙØ¹ÙØ±. ð
+    Fonts: Hani
+    Sizes: 16.0002px
+    Colors: #2d2b25
+
+  [Element 4] (Role: paragraph, Type: K)
+    Texts: ÙØ§Ø±Ø¨ ØªÙØ¶Ù Ø­ÙØ§ÙØ© Ø³Ø§Ø§Ù Ø§ÙÙ ÙÙØ§Ø¡ ÙÙ Ø§ÙØ¯ÙÙØ§â¡
+    Fonts: Hani
+    Sizes: 16.0002px
+    Colors: #2d2b25
+
+==================================================
+SECTION 3: Section 3
+==================================================
+Background: {"B": {"A": {"A?": "d", "A": "MAGZO3DIrL0", "B": 1}, "I": {"A?": "d", "A": "MAHRZbhy4Zo", "B": 1}, "B": {"A": -650.425709335018, "B": 0.0, "D": 1366.0, "C": 2049.0, "E": 0.0}, "E": 0.0, "C": {}}, "C": "#faf1e1", "D": 0.0, "F": false, "J": false, "G": false, "H": false}
+Total elements: 3
+
+==================================================
+SECTION 4: Registry
+==================================================
+Background: {"C": "#cdc1ab", "D": 0.0, "F": false, "J": false, "G": false, "H": false}
+Total elements: 4
+
+  [Element 2] (Role: , Type: O)
+    Links: https://maps.app.goo.gl/jELfF21bqkNxPoMK7?g_st=ac
+
+  [Element 4] (Role: heading, Type: K)
+    Texts: Your presence is the greatest gift of all. We canât wait to celebrate this special day with you! ð¤
+    Fonts: Quattrocento
+    Sizes: 28.53px
+    Colors: #2d2b25
+
+==================================================
+SECTION 5: Contact
+==================================================
+Background: {"C": "#2d2b25", "D": 0.0, "F": false, "J": false, "G": false, "H": false}
+Total elements: 2
+
+  [Element 2] (Role: heading, Type: K)
+    Texts: We canât wait to celebrate with you!
+    Fonts: Pinyon Script
+    Sizes: 62.6667px
+    Colors: #cdc1ab
