@@ -16,7 +16,7 @@ app.use(express.json());
 app.use('/api/comments', commentsRouter);
 
 app.get('/', (req, res) => {
-  res.json({ message: '💒 Kapsa Wedding API is running!' });
+  res.json({ message: '💒 Mohamed Wedding API is running!' });
 });
 
 

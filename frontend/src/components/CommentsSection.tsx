@@ -3,7 +3,7 @@ import axios from 'axios';
 import { motion, AnimatePresence } from 'framer-motion';
 import './CommentsSection.css';
 
-const API_URL = 'http://localhost:5000/api/comments';
+const API_URL = 'https://wedding-of-mohamed.vercel.app/api/comments';
 
 interface Comment {
   name: string;

@@ -7,7 +7,10 @@ export default function LocationSection() {
     <section className="location-section" id="location">
       <div className="location-icon">📍</div>
       <h2 className="location-title">Find the Venue</h2>
-      <p className="location-subtitle">We can't wait to celebrate with you!</p>
+      <p className="location-subtitle">Your presence is the
+greatest gift of all. We can’t
+wait to celebrate this
+special day with you! 🤍</p>
       <a
         href={GOOGLE_MAPS_URL}
         target="_blank"

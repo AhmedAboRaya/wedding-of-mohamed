@@ -8,12 +8,9 @@ import CommentsSection from './components/CommentsSection';
 import LocationSection from './components/LocationSection';
 
 const scrollImages = [
-  'https://i.postimg.cc/T35j7nG2/Chat-GPT-Image-8-mayw-2026-11-15-41-s.png',
-  'https://i.postimg.cc/bNJ9nKBK/Chat-GPT-Image-8-mayw-2026-11-15-49-s.png',
-  'https://i.postimg.cc/QxtJ7Ryz/Chat-GPT-Image-May-8-2026-11-24-56-AM.png',
-  'https://i.postimg.cc/Wb3wZQHK/Chat-GPT-Image-May-8-2026-11-16-37-AM.png',
-  'https://i.postimg.cc/P5vb31hP/Chat-GPT-Image-8-mayw-2026-11-15-28-s.png',
-  'https://i.postimg.cc/rshGbJKW/Chat-GPT-Image-May-8-2026-11-28-13-AM.png',
+  '/images/photo1.jpg',
+  '/images/photo2.jpg',
+  '/images/photo3.jpg',
 ];
 
 function App() {

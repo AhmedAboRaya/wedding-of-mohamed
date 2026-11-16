@@ -33,7 +33,7 @@ export default function Hero() {
           <p>04 . 12 . 2026</p>
           <div className="date-line" />
         </div>
-        <p className="hero-tagline">Together with their families, request the honor of your presence</p>
+        <p className="hero-tagline">Are getting married</p>
       </div>
       <div className="scroll-hint">
         <span className="scroll-arrow">↓</span>
